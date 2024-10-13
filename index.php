@@ -120,7 +120,7 @@ $deviceType = getDeviceType();
 
         <p class="mb-8">
             Want to onboard as a merchant?
-            <a href="/merchants/apply" class="text-purple-500 hover:underline">Apply Now.</a>
+            <a href="/merchants/register" class="text-purple-500 hover:underline">Register Now.</a>
         </p>
         <p class="mb-8">Available on <a href="/home" class="text-purple-500 hover:underline">Web</a>, iOS and Android.</p>
         <div class="relative w-full max-w-3xl mx-auto aspect-video bg-black rounded-lg overflow-hidden">
